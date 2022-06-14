@@ -13,10 +13,6 @@ import {
 const App = () => {
   return (
     <View style={{
-      flex: 1,
-      justifyContent: 'center',
-      alignContent: 'center',
-      alignItems: 'center'
     }}>
       <Text>1234</Text>
     </View>
